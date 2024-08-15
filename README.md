@@ -17,12 +17,13 @@
 
 <h2 align=center>Estastíticas</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willalmeid&bg_color=0d1117&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willalmeid&bg_color=050215&hide_border=true&radius=6&color=FFFFFF&line=00FFFF&point=00FFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willalmeid&show_icons=true&hide_border=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="William Almeida github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willalmeid&hide_border=true&layout=compact&hide_border=true&title_color=00FFFF&text_color=ff91a4&bg_color=0d1117" />
+<div width=100% align="center">
+  <img width=56.9% align="center" src="https://github-readme-stats.vercel.app/api?username=willalmeid&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=00FFFF&icon_color=00FFFF&hide_border=true" alt="stats graph" />
+
+  <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willalmeid&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=00FFFF" />
 </div>
 
 <div align="center">
@@ -39,7 +40,7 @@
         <img align="center" alt="HTML5" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/HTML5.svg">
         <img align="center" alt="Java Script" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg">
         <img align="center" alt="Java" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Java.svg">
-        <img align="Mysql" alt="Mysql" height="50" width="60" margin="0" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Mysql.svg">
+        <!--<img align="Mysql" alt="Mysql" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Mysql.svg">-->
       </div>
       <div align="top">
         <h3>Estudando no Momento</h3>
