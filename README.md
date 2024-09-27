@@ -37,14 +37,21 @@
         <h3>Tecnologias</h3>
         <img align="center" alt="CSS3" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/CSS3.svg">
         <img align="center" alt="HTML5" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/HTML5.svg">
-        <img align="center" alt="Java Script" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg">
-        <img align="center" alt="Java" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Java.svg">
-        <!--<img align="Mysql" alt="Mysql" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Mysql.svg">-->
+        <img align="center" alt="GitHub" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Github.svg">
+        <img align="center" alt="Git" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg">
+        <img align="center" alt="Mysql" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Mysql.svg"> 
+<!--         <img align="center" alt="Java Script" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg"> -->
       </div>
       <div align="top">
         <h3>Estudando no Momento</h3>
-        <img align="center" alt="Java Script" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg">
+        <img align="center" alt="Java Script" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/JavaScript.svg">
+        <img align="center" alt="Java" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Java.svg">
+        <img align="center" alt="C" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/C.svg">
+      </div>
+      <div align="top">
+        <h3>Próximos Passos</h3>
         <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img align="center" alt="Angular" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Angular.svg">
         <img align="center" alt="Pyton" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Python.svg">
         <img align="center" alt="Ruby" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Ruby.svg">
         <img align="center" alt="Django" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_django.svg">
