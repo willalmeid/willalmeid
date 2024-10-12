@@ -1,0 +1,122 @@
+{
+    // Configurações de Abertura do VsCode
+    "workbench.startupEditor": "newUntitledFile", // Sempre que abrir o VSCode, abrirá em um novo arquivo.
+
+    // Configuração Git
+    "git.ignoreMissingGitWarning": true, // Config para o Git ignorar quando a pasta não for um repositório.
+    "git.confirmSync": false, // Tirar caixa de confirmação quando utilizar o "pull" ou "push".
+
+    // Configuração do VsCode
+    "explorer.confirmDelete": false, // Config para desativar caixa de confirmação para deletar algum arquivo.
+    "explorer.confirmDragAndDrop": false, // Config para permitir arrastar itens para o VsCode.
+    "editor.stickyScroll.enabled": false, // Mantem a posição do mause quando faz rolagem.
+    "explorer.confirmPasteNative": false, // Desativa caixa de confirmação para o ctrl + c e ctrl + v.
+    "window.titleBarStyle": "custom", // Permite configurar a barra de título (Apc).
+    // "editor.tabSize": 2, // Config de tamanho do Tab (Já tem na config do Prettier).
+
+    // Configuração do LiveServer
+    "liveServer.settings.donotVerifyTags": true, // Desativa a verificação de tags do LiveServer.
+    "liveServer.settings.donotShowInfoMsg": true, // Mesagens do LiveServer sobre o servidor.
+
+    // Configuração do terminal
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.cursorStyleInactive": "none",
+
+    // Configurações de Saving e Identação
+    "editor.codeActionsOnSave": {
+        // Toda vez que salvar ele conserta algum erro.
+        "source.fixAll.eslint": "explicit"
+    },
+    "[javascript]": {
+        // Configurações de identação nessa linguagem.
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        // Configurações de identação nessa linguagem.
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[c]": {
+        // Configurações de identação nessa linguagem.
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[cpp]": {
+        // Configurações de identação nessa linguagem.
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+        // Configurações de identação nessa linguagem.
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay", // Salvar automáticamente.
+    "editor.formatOnSave": true, // identar ao salvar.
+    "prettier.tabWidth": 4, // Configurações do tamanho do Tab.
+
+    // Configurações de pastas padrões. Baseado em: Diego Fernandes.
+    "explorer.fileNesting.patterns": {
+        "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
+        "tailwind.config.*": "tailwind.config*, postcss.config*",
+        ".env.local": ".env*",
+        ".env": ".env*"
+    },
+
+    // Visual
+    // Escolha de theme e icons do explorer.
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "icons", // Mudar a font do vscode.
+
+    // Configurações de Código.
+    "editor.fontFamily": "JetBrains Mono", // Escolha de Font
+    "editor.fontSize": 16, // Tamanho da font.
+    "editor.lineHeight": 1.8, // Tamanho da linhas do código.
+    "editor.renderLineHighlight": "gutter", // a marcação da linha ficar apenas no quadrado ao lado.
+    "editor.fontLigatures": true, // Juntar duas coisas como simbolo (Ex: =>).
+    "editor.bracketPairColorization.enabled": true, // Mudar Cores das chaves "{}" em LP.
+    "editor.semanticHighlighting.enabled": false, // Deixa as cores de variáveis iguais.
+
+    // Configurações da Janela
+    "editor.minimap.enabled": false, // Tirar o minimapa da direita.
+    "editor.scrollbar.vertical": "hidden", // Tirar scroll vertical.
+    "editor.scrollbar.horizontal": "hidden", // Tirar scroll horizontal.
+    "workbench.statusBar.visible": false, // Tirar a barra de baixo.
+    "workbench.activityBar.location": "hidden", // Tirar barra da esquerda.
+    "window.commandCenter": true, // Tirar a barra de pesquisa pois, pode ser acessado por ctrl + q, ctrl + shift + p e ctrl + p.
+    "window.zoomLevel": -0.5, // Zoom da janela
+    "workbench.layoutControl.enabled": false, // Tirar o controle de layout encima.
+    "breadcrumbs.enabled": false, // Mostrar caminho do arquivo emcima do código.
+
+    // Configurações da Janela das Pastas
+    "explorer.compactFolders": false, // Mostra a pasta dentro de outra caso so tenha uma.
+    "workbench.editor.labelFormat": "short", // Mostrar apenas a pasta anterior do caminho.
+    "workbench.tree.indent": 15, // Tamanho de identação das pastas
+
+    // Configurações da extenção apc
+    "apc.header": {
+        "height": 36 // Espaçamento do nome do arquivo selecionado
+    },
+    "apc.listRow": {
+        "height": 24 // Espaçamento dos itens da janela da pasta
+    },
+    "apc.font.family": "Inter", // Determina a fonte do VsCode, mas a do código está com outra (linha 48).
+    "apc.stylesheet": {
+        // permite personalizar o css do VsCode
+        ".editor-actions": "display: nome", // Tirar as ações do canto superior direito (Somente em Mac, acho).
+        ".nosidebar .inline-tabs-placeholder": "width: 500px", // Define a largura do espaço reservado para abas quando a barra lateral está oculta.
+        ".pane-header": "padding: 15px 8px", //Ajusta o padding do cabeçalho do painel (EXPLORER e TIMELINE).
+        ".pane-body": "padding: 8px;", // Ajusta o padding do corpo do painel para 8 pixels em todas as direções.
+        ".split-view-view:first-child .pane-header": "display: none !important;", // Oculta o cabeçalho do primeiro painel na visualização dividida, utilizando a regra !important para garantir que este estilo tenha prioridade.
+        ".monaco-list-row": "border-radius: 4px;", // Define um arredondamento nas bordas das linhas do arquivo selecionado.
+        ".monaco-icon-name-container": "font-size: .875rem", // Tamanho da font da lista.
+        ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;" // Remove a indicação visual de foco para listas que não estão em foco no workbench do Monaco Editor, que é o editor subjacente usado pelo VSCode.
+    },
+    "code-runner.runInTerminal": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.confirmSaveUntitledWorkspace": false,
+
+    // Configurações que tavez eu use
+    // "editor.rulers": [80, 120], // Espaçamento min/max das linhas dos codigos.
+    // "apc.stylesheet": {
+    //     ".title-label > h2": "display: none", // Tirar o titulo (Ex: explorer).
+    // }
+}
