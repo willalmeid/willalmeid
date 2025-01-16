@@ -37,7 +37,6 @@
         <h3>Tecnologias</h3>
         <img align="center" alt="CSS3" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/CSS3.svg">
         <img align="center" alt="HTML5" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/HTML5.svg">
-        <img align="center" alt="GitHub" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Github.svg">
         <img align="center" alt="Git" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg">
         <img align="center" alt="Mysql" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Mysql.svg">
         <img align="center" alt="Mysql" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_php2.svg">
