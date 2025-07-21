@@ -1,14 +1,20 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A42BE2&height=100&section=header"/>
 
+<div align="center">
+  <img src="https://github.com/willalmeid/portifolio/blob/main/src/images/imagem-pessoal.png" alt="Minha foto" width="400"/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+William+Almeida;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A42BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+William+Almeida;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
 <div align="center">
-  <a href="https://www.instagram.com/_will.almeid/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/william-almeida-74ab22302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="URL_DO_SEU_LINKTREE" target="_blank">
+        <img src="https://img.shields.io/badge/Linktree-A42BE2?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" width="160">
+    </a>
 </div>
 
 <br>
@@ -16,49 +22,58 @@
 
 <h2 align=center>Estastíticas</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willalmeid&bg_color=050215&hide_border=true&radius=6&color=FFFFFF&line=00FFFF&point=00FFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<br>
 
 <div width=100% align="center">
-  <img width=55.6% align="center" src="https://github-readme-stats.vercel.app/api?username=willalmeid&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=00FFFF&icon_color=00FFFF&hide_border=true" alt="stats graph" />
+  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=willalmeid&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=A42BE2&icon_color=A42BE2&hide_border=true&rank_icon=github" alt="stats graph" />
+<!--   <img width=55.6% align="center" src="https://github-readme-stats.vercel.app/api?username=willalmeid&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=A42BE2&icon_color=A42BE2&hide_border=true" alt="stats graph" /> Esse tem a nota ao invez da foto do git hub -->
 
-  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willalmeid&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=00FFFF" />
+  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willalmeid&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=A42BE2" />
 </div>
 
-<div align="center">
-  <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{willalmeid}/count.svg" /></p>
-  <br>
-</div>
-
-<div align="center">
-      <div align="top">
-        <h3>Tecnologias</h3>
-        <img align="center" alt="CSS3" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/CSS3.svg">
-        <img align="center" alt="HTML5" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/HTML5.svg">
-        <img align="center" alt="Git" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg">
-        <img align="center" alt="Mysql" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Mysql.svg">
-        <img align="center" alt="Mysql" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_php2.svg">
-<!--         <img align="center" alt="Java Script" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg"> -->
-      </div>
-      <div align="top">
-        <h3>Estudando no Momento</h3>
-        <img align="center" alt="Java Script" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/JavaScript.svg">
-        <img align="center" alt="Java" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Java.svg">
-        <img align="center" alt="C" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/C.svg">
-      </div>
-      <div align="top">
-        <h3>Próximos Passos</h3>
-        <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img align="center" alt="Angular" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Angular.svg">
-        <img align="center" alt="Pyton" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Python.svg">
-        <img align="center" alt="Ruby" height="50" width="60" src="https://github.com/AnoyiX/dev-icons/blob/main/icons/Ruby.svg">
-        <img align="center" alt="Django" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_django.svg">
-      </div>
+<div width=100% align="center">
+  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=willalmeid&bg_color=050215&color=FFFFFF&line=A42BE2&point=A42BE2&area=false&hide_border=true&radius=6" alt="stats graph" />
 </div>
 
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<h2 align="center"> 🚀 Tecnologias e Ferramentas 🚀 </h2>
+
+<br>
+
+<h3 align="center"> Principais </h3>
+
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</div>
+
+
+<br>
+
+<h3 align="center"> Próximos passos: </h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+</div>
+
+<br>
+
+<h3 align="center"> Outras </h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A42BE2&height=120&section=footer"/>
