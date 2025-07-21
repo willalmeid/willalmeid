@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<h2 align="center"> 🚀 &nbsp;&nbsp;&nbsp; Tecnologias e Ferramentas &nbsp;&nbsp;&nbsp; 🚀 </h2>
+<h2 align="center"> 🚀 &nbsp;&nbsp; Tecnologias e Ferramentas &nbsp;&nbsp; 🚀 </h2>
 
 <br>
 
