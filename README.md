@@ -25,7 +25,7 @@
 <br>
 
 <div width=100% align="center">
-  <img width=56% align="center" src="https://github-readme-stats.vercel.app/api?username=willalmeid&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=A42BE2&icon_color=A42BE2&hide_border=true&rank_icon=github" alt="stats graph" />
+  <img width=55.8% align="center" src="https://github-readme-stats.vercel.app/api?username=willalmeid&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=A42BE2&icon_color=A42BE2&hide_border=true&rank_icon=github" alt="stats graph" />
 <!--   <img width=55.6% align="center" src="https://github-readme-stats.vercel.app/api?username=willalmeid&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=A42BE2&icon_color=A42BE2&hide_border=true" alt="stats graph" /> Esse tem a nota ao invez da foto do git hub -->
 
   <img width=43% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willalmeid&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=A42BE2" />
