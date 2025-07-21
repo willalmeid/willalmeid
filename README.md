@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<h2 align=center>Estastíticas</h2>
+<h2 align=center> 📊 &nbsp;&nbsp;&nbsp; Estastíticas do GitHub &nbsp;&nbsp;&nbsp; 📊 </h2>
 
 <br>
 
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<h2 align="center"> 🚀 Tecnologias e Ferramentas 🚀 </h2>
+<h2 align="center"> 🚀 &nbsp;&nbsp;&nbsp; Tecnologias e Ferramentas &nbsp;&nbsp;&nbsp; 🚀 </h2>
 
 <br>
 
