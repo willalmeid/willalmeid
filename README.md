@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-    <a href="URL_DO_SEU_LINKTREE" target="_blank">
+    <a href="https://linktr.ee/willalmeid" target="_blank">
         <img src="https://img.shields.io/badge/Linktree-A42BE2?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" width="160">
     </a>
 </div>
