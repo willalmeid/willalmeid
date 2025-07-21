@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="https://linktr.ee/willalmeid" target="_blank">
-        <img src="https://img.shields.io/badge/Linktree-A42BE2?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" width="160">
+        <img src="https://img.shields.io/badge/Linktree-A42BE2?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" width="120">
     </a>
 </div>
 
