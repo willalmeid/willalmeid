@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A42BE2&height=100&section=header"/>
 
 <div align="center">
-  <img src="https://github.com/willalmeid/portifolio/blob/main/src/images/imagem-pessoal.png" alt="Minha foto" width="400"/>
+  <img src="https://github.com/willalmeid/portifolio/blob/main/assets/images/profile/avatar.png" alt="Minha foto" width="400"/>
 </div>
 
 <br>
